@@ -1,1 +1,1 @@
-worker: bash install.sh && python3 bot.py
+web: python main.py
